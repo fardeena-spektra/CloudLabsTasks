@@ -26,10 +26,6 @@
             "Type": "String",
             "Default": "10.10.0.0/24"
         },
-        "clgclusterSubnetCidr": {
-            "Type": "String",
-            "Default": "10.10.1.0/24"
-        },
         "AmazonECSTaskExecutionRolePolicy": {
             "Type": "String",
             "Default": "arn:aws:iam::aws:policy/service-role/AmazonECSTaskExecutionRolePolicy"
@@ -135,24 +131,6 @@
                 ]
             }
         },
-        "clgClusterSubnet": {
-            "Type": "AWS::EC2::Subnet",
-            "Properties": {
-                "MapPublicIpOnLaunch": true,
-                "VpcId": {
-                    "Ref": "clgVpc"
-                },
-                "CidrBlock": {
-                    "Ref": "clgclusterSubnetCidr"
-                },
-                "Tags": [
-                    {
-                        "Key": "Name",
-                        "Value": "clgClusterSubnet"
-                    }
-                ]
-            }
-        },
         "RouteTable": {
             "Type": "AWS::EC2::RouteTable",
             "Properties": {
@@ -185,17 +163,6 @@
             "Properties": {
                 "SubnetId": {
                     "Ref": "vmSubnet"
-                },
-                "RouteTableId": {
-                    "Ref": "RouteTable"
-                }
-            }
-        },
-        "clusterSubnetRouteTableAssociation": {
-            "Type": "AWS::EC2::SubnetRouteTableAssociation",
-            "Properties": {
-                "SubnetId": {
-                    "Ref": "clgClusterSubnet"
                 },
                 "RouteTableId": {
                     "Ref": "RouteTable"
