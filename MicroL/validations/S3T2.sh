@@ -24,5 +24,5 @@ if ! echo "$CRON_ENTRIES" | grep -qE '^\*[[:space:]]+\*[[:space:]]+\*[[:space:]]
     exit 1
 fi
 
-echo "Validation Passed: Cron job is configured to execute system_report.sh every 5 minutes."
+echo "Validation Passed: Cron job is configured to execute system_report.sh every 1 minutes."
 exit 0
