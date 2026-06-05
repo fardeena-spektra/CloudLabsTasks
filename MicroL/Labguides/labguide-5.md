@@ -238,7 +238,7 @@ Validation will verify that:
 * The script returns exit code `0` when the file exists.
 * The script returns exit code `1` when the file is missing.
 
-<validation step="DEBUG-TASK1" />
+<validation step="33df1f62-1141-4bc2-bf22-cecb8bf6abe3" />
 
 ---
 
