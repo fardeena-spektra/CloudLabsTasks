@@ -241,7 +241,7 @@ Total Errors: 3
 
 * The script executes successfully without errors.
 
-<validation step="PARSELOG-TASK1" />
+<validation step="7bd312ef-23f1-4a65-b833-a6c7e5399e5b" />
 
 ---
 
