@@ -191,7 +191,7 @@ Validation will verify that:
 Server is available
 ```
 
-<validation step="SERVERCHECK-TASK1" />
+<validation step="31bcf261-df44-4636-ac7f-d7a4f776d17c" />
 
 ---
 
