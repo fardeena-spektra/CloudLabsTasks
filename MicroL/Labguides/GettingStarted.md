@@ -1,4 +1,4 @@
-# Introduction to AWS DevOps.
+# Introduction to Shell Scripting Advanced.
 
 Before starting the hands-on lab, kindly note that the lab duration will be shown at the top right corner of your lab environment page once the lab is launched by clicking the **Launch Lab** button. The time will be ticking automatically, so it's important to keep an eye on it while performing your lab tasks.
 
@@ -14,12 +14,12 @@ Follow the steps below to get started with the lab.
 
     * **Password**: **<inject key="Password" enableCopy="true" />**
 
-    ![](./images/login.png)
+    ![alt text](image.png)
 
     Alternatively, you can also find these values on the **CloudLabs** Environment tab.
 
-    ![](./images/signin.png)
+    ![alt text](image-2.png)
 
 2. After signing in to the AWS Management Console, choose the region **US-EAST-1 (N. Virginia)** from the drop-down menu in the top right hand corner.
 
-    ![](./images/region.png)
+    ![alt text](image-3.png)
