@@ -20,35 +20,10 @@ After completing this exercise, you will be able to:
 
 ### Estimated Time
 
-**10 Minutes**
+**20 Minutes**
 
 ---
 
-## Access Information
-
-Connect to the Linux virtual machine using the credentials provided below.
-
-### SSH Command
-
-```bash
-ssh <inject key="VMUserName" enableCopy="true"/>@<inject key="VMPublicDNSName" enableCopy="true"/>
-```
-
-### Username
-
-```text
-<inject key="VMUserName" enableCopy="true"/>
-```
-
-### Password
-
-```text
-<inject key="VMPassword" enableCopy="true"/>
-```
-
-> **Note:** If prompted to verify the server fingerprint during the first connection attempt, type **yes** and press **Enter**.
-
----
 
 # Task 1: Create a Scheduled Reporting Script
 
