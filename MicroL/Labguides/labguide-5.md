@@ -1,14 +1,12 @@
-# Shell Scripting Advance Assessment Lab
+# Scenario 5: Use Exit Codes and Debugging
 
-## Scenario 5: Use Exit Codes and Debugging
-
-### Lab Overview
+## Lab Overview
 
 In this assessment, you will create a shell script that verifies whether a file exists and returns appropriate exit codes based on the result.
 
 Exit codes are a fundamental part of Linux shell scripting and automation. They are commonly used by system administrators, monitoring tools, schedulers, and automation platforms to determine whether a command or script executed successfully.
 
-### Scenario
+## Scenario
 
 You have recently joined a Linux Operations team as a Junior System Administrator.
 

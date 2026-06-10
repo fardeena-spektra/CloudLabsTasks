@@ -1,14 +1,12 @@
-# Shell Scripting Advance Assessment Lab
+# Scenario 3: Automate Script Execution Using Cron
 
-## Scenario 3: Automate Script Execution Using Cron
-
-### Lab Overview
+## Lab Overview
 
 In this assessment, you will create a shell script that generates a simple system report and configure a cron job to execute the script automatically at scheduled intervals.
 
 System administrators commonly use cron jobs to automate repetitive tasks such as generating reports, collecting system information, monitoring services, and performing routine maintenance. By automating these activities, organizations can improve operational efficiency and reduce manual effort.
 
-### Scenario
+## Scenario
 
 You have recently joined the Linux Operations team as a System Administrator.
 
@@ -16,7 +14,7 @@ The organization requires automated system reporting to help monitor server acti
 
 You have been provided access to a Linux virtual machine and must complete the reporting automation solution.
 
-### Solution
+## Solution
 
 To address this requirement, you will create a shell script named **system_report.sh** that appends the current date and time to a log file located at:
 

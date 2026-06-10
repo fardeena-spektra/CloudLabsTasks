@@ -1,6 +1,4 @@
-# Shell Scripting Advance Assessment Lab
-
-## Scenario 2: Monitor Service and Restart
+# Scenario 2: Monitor Service and Restart
 
 ### Lab Overview
 
@@ -8,7 +6,7 @@ In this assessment, you will use Linux shell scripting to monitor and manage sys
 
 Service monitoring and recovery are common administrative responsibilities in Linux environments. Automating these tasks helps ensure application availability and reduces manual intervention during service failures.
 
-### Scenario
+## Scenario
 
 You have recently joined an Infrastructure Operations team as a Linux Administrator.
 
@@ -18,7 +16,7 @@ Your manager has asked you to verify the status of the HTTPD service, simulate a
 
 You have been provided access to a Linux virtual machine with HTTPD preinstalled and configured.
 
-### Solution
+## Solution
 
 To address this requirement, you will first manually stop the HTTPD service and verify that it is no longer running. You will then create a shell script that checks the service status and automatically starts the service if it is inactive.
 
