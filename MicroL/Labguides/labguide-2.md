@@ -1,6 +1,6 @@
 # Scenario 2: Monitor Service and Restart
 
-### Lab Overview
+## Lab Overview
 
 In this assessment, you will use Linux shell scripting to monitor and manage system services. You will verify the status of the Apache HTTP Server (HTTPD), simulate a service outage by stopping the service, and then create a shell script that automatically detects and starts the service when it is not running.
 
