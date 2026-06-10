@@ -20,13 +20,21 @@ Once you're ready to begin, your Linux virtual machine and lab guide will be ava
 
 Your virtual machine is the environment where all lab activities will be performed. The lab guide provides step-by-step instructions and validation requirements for each task.
 
+![alt text](image-5.png)
 ---
 
 # Exploring Your Lab Resources
 
 To view environment information, credentials, and resource details, navigate to the **Environment** tab.
 
+![alt text](image-6.png)
+
 ---
+# Utilizing the Split Window Feature
+
+For convenience, you can open the lab guide in a separate window by selecting the Split Window button from the Top right corner.
+
+![alt text](image-7.png)
 
 # Connecting to the Virtual Machine
 
@@ -60,11 +68,15 @@ These commands should display your current username and the hostname of the lab 
 
 You may Start, Restart, or Stop your virtual machine at any time using the **Resources** tab available within the lab environment.
 
+![alt text](image-8.png)
+
 ---
 
 # Lab Guide Zoom In / Zoom Out
 
 To adjust the zoom level of the lab environment page, use the zoom controls located next to the session timer.
+
+![alt text](image-10.png)
 
 ---
 
@@ -74,6 +86,8 @@ After completing each task, select the **Validate** button located within the Va
 
 * If validation succeeds, proceed to the next task.
 * If validation fails, carefully review the error message and revisit the task instructions before attempting validation again.
+
+![alt text](image-11.png)
 
 ---
 
