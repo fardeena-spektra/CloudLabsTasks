@@ -1,12 +1,38 @@
-# Getting Started
+# Shell Scripting Advanced Assessment Lab
 
-## Access Information
+**Duration:** 90 Minutes
 
-You will perform all lab tasks on a Linux virtual machine provisioned for this environment.
+## Getting Started with the Lab
 
-### SSH Connection
+This lab is designed to evaluate your ability to work with Linux operating systems and Bash shell scripting in a real-world administration environment. Linux systems are widely used across organizations to host applications, automate operational tasks, manage services, monitor system health, and process log data. System administrators and DevOps engineers frequently rely on shell scripting to improve efficiency, reduce manual effort, and automate repetitive tasks.
 
-Use the following command to connect to the virtual machine:
+In this lab, you will perform a series of Linux administration and shell scripting tasks on a provisioned virtual machine. You will create and modify scripts, manage services, analyze log files, generate reports, schedule tasks, and automate common administrative operations. Throughout the assessment, you will apply core Linux concepts including file management, permissions, process management, service administration, text processing, and shell scripting techniques.
+
+By the end of the lab, you will have demonstrated your ability to work effectively in a Linux environment and automate operational tasks using Bash scripting.
+
+---
+
+# Accessing Your Lab Environment
+
+Once you're ready to begin, your Linux virtual machine and lab guide will be available directly within your browser.
+
+## Virtual Machine & Lab Guide
+
+Your virtual machine is the environment where all lab activities will be performed. The lab guide provides step-by-step instructions and validation requirements for each task.
+
+---
+
+# Exploring Your Lab Resources
+
+To view environment information, credentials, and resource details, navigate to the **Environment** tab.
+
+---
+
+# Connecting to the Virtual Machine
+
+You may connect to the Linux virtual machine using SSH.
+
+### SSH Command
 
 ```bash
 ssh <inject key="VMUserName" enableCopy="true"/>@<inject key="VMPublicDNSName" enableCopy="true"/>
@@ -24,27 +50,43 @@ ssh <inject key="VMUserName" enableCopy="true"/>@<inject key="VMPublicDNSName" e
 <inject key="VMPassword" enableCopy="true"/>
 ```
 
-## Note
+---
 
-If you prefer not to use a browser-based terminal, you may connect to the virtual machine directly from your local computer using any SSH client, including:
+These commands should display your current username and the hostname of the lab virtual machine.
 
-* OpenSSH (Linux/macOS)
-* Windows Terminal or PowerShell
-* PuTTY
-* MobaXterm
-* Termius
+---
 
-Use the SSH command and credentials provided above to establish the connection.
+# Managing Your Virtual Machine
 
-> **Important:** Ensure that your local network allows outbound SSH connections on port 22 before attempting to connect from your local machine.
+You may Start, Restart, or Stop your virtual machine at any time using the **Resources** tab available within the lab environment.
 
-## Verification
+---
 
-After connecting successfully, verify access by running:
+# Lab Guide Zoom In / Zoom Out
 
-```bash
-whoami
-hostname
-```
+To adjust the zoom level of the lab environment page, use the zoom controls located next to the session timer.
 
-The commands should display your current username and the hostname of the lab virtual machine.
+---
+
+# Lab Validation
+
+After completing each task, select the **Validate** button located within the Validation section of the lab guide.
+
+* If validation succeeds, proceed to the next task.
+* If validation fails, carefully review the error message and revisit the task instructions before attempting validation again.
+
+---
+
+# Support Contact
+
+The CloudLabs support team is available 24/7 throughout your lab experience.
+
+### Learner Support
+
+**Email Support:** [labs-support@spektrasystems.com](mailto:labs-support@spektrasystems.com)
+
+**Live Chat Support:** https://cloudlabs.ai/labs-support
+
+---
+
+Click **Next >>** to begin the assessment.
