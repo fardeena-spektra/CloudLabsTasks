@@ -27,7 +27,7 @@ Your virtual machine is the environment where all lab activities will be perform
 
 To view environment information, credentials, and resource details, navigate to the **Environment** tab.
 
-![alt text](image-6.png)
+![alt text](image-12.png)
 
 ---
 # Utilizing the Split Window Feature
