@@ -1,4 +1,4 @@
-# Shell Scripting Assessment Lab
+# Shell Scripting Advance Assessment Lab
 
 ## Scenario 4: Check Web Server Availability
 
@@ -178,7 +178,7 @@ Server is available
 when the Apache web server is running.
 
 ---
-
+ After completing the task, click the **Validation** tab
 <validation step="31bcf261-df44-4636-ac7f-d7a4f776d17c" />
 
 ---

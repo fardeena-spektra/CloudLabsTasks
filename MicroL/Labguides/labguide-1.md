@@ -52,8 +52,8 @@ Expected sample entries:
 
 ```
  [error] Database connection failed
-  [error] Backend timeout
-  [error] Authentication failed
+ [error] Backend timeout
+ [error] Authentication failed
 ```
 
 > Note: Do not modify the contents of the log file. Validation will verify the script against the existing log data.
@@ -208,7 +208,7 @@ Run the script:
 The script output should display entries similar to:
 
 ```
-[error] Database connection failed
+ [error] Database connection failed
  [error] Backend timeout
  [error] Authentication failed
 

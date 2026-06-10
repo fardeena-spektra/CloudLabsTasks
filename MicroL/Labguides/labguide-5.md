@@ -1,4 +1,4 @@
-# Shell Scripting Assessment Lab
+# Shell Scripting Advance Assessment Lab
 
 ## Scenario 5: Use Exit Codes and Debugging
 
@@ -245,9 +245,8 @@ Your solution is successful when:
 * The script returns exit code `0` when the file exists.
 * The script returns exit code `1` when the file does not exist.
 
+ After completing the task, click the **Validation** tab
 <validation step="33df1f62-1141-4bc2-bf22-cecb8bf6abe3" />
-
-
 
 ## Instructions
 

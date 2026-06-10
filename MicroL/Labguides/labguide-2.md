@@ -32,12 +32,6 @@ After completing this lab, you will be able to:
 * Implement conditional logic within shell scripts.
 * Automate basic service recovery operations.
 
-## Estimated Time
-
-**20 Minutes**
-
----
-
 ## Environment Information
 
 The Apache HTTP Server (HTTPD) has been preinstalled and configured on the virtual machine.
@@ -119,13 +113,7 @@ sudo systemctl is-active httpd
 ```
 
 ---
-
-## Validation Check
-
-VALIDATION CHECK
-
-Task 1 – Stop HTTPD Service
-
+ After completing the task, click the **Validation** tab
 <validation step="dfb21bdb-d7ab-4a73-88b8-9123867891d8" />
 
 ---
@@ -271,11 +259,7 @@ active
 ```
 
 ---
-
-## Validation Check
-
-Task 2 – Monitor and Restart HTTPD Service
-
+ After completing the task, click the **Validation** tab
 <validation step="0d980599-73b0-41a3-b768-87c5c004307d" />
 
 ---

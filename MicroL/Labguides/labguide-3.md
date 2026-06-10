@@ -1,4 +1,4 @@
-# Shell Scripting Assessment Lab
+# Shell Scripting Advance Assessment Lab
 
 ## Scenario 3: Automate Script Execution Using Cron
 
@@ -165,6 +165,7 @@ cat /tmp/system_report.log
 You should see a timestamp entry.
 
 ---
+ After completing the task, click the **Validation** tab
 
 <validation step="65ec2094-7768-48a6-a5fa-2a714c795f49" />
 
@@ -233,7 +234,7 @@ Wed Jun 3 10:17:01 UTC 2026
 ```
 
 ---
-
+ After completing the task, click the **Validation** tab
 <validation step="1be7e975-2f79-4a15-af99-35df686db6cc" />
 
 ---
